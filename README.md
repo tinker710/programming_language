@@ -12,7 +12,9 @@
 ### 1.2 一些代码
 [some codes](./c/codes/)
 ## 2. python
-
+1. [Basic](./python/p1_Basic.ipynb)
+2. [Objected Oriented](./python/p2_objected_oriented.ipynb)
 ## 3. Reference
 1. 《程序设计入门-c语言》，翁恺，MOOC
 2. 《c语言程序设计进阶》，翁恺，MOOC
+3. python 100 days (https://github.com/jackfrued/Python-100-Days.git)
